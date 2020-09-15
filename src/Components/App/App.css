@@ -1,4 +1,34 @@
-.App {
+.app-container {
+  color: white;
+	height: 100vh;
+	width: 100vw;
+	align-items: center;
+	display: flex;
+  justify-content: center;
+  background-color: rgb(163, 158, 158) ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -12,6 +42,8 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+
 
 .App-header {
   background-color: #282c34;
@@ -35,4 +67,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
